@@ -1,0 +1,2 @@
+2048,1280
+22,145,590,190,607,Utility,large-vehicle,High

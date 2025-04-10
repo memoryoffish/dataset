@@ -1,0 +1,15 @@
+2048,1280
+0,190,581,224,595,SUVs,small-vehicle,High
+13,94,592,127,607,SUVs,small-vehicle,High
+14,1113,654,1143,669,SUVs,small-vehicle,High
+18,1287,614,1319,629,SUVs,small-vehicle,High
+21,1817,614,1852,629,SUVs,small-vehicle,High
+22,1701,138,1717,168,SUVs,small-vehicle,High
+23,1627,943,1644,973,SUVs,small-vehicle,High
+24,346,678,379,692,SUVs,small-vehicle,High
+25,807,632,838,647,SUVs,small-vehicle,High
+28,662,564,693,578,SUVs,small-vehicle,High
+29,918,554,948,569,SUVs,small-vehicle,High
+30,615,673,647,687,SUVs,small-vehicle,High
+33,1770,135,1787,164,SUVs,small-vehicle,High
+42,1687,978,1704,1008,SUVs,small-vehicle,High

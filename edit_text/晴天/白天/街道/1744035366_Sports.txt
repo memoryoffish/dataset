@@ -1,0 +1,2 @@
+2048,1280
+23,35,95,60,120,Sports,small-vehicle,High

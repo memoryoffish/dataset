@@ -1,0 +1,2 @@
+2048,1280
+45,926,514,1006,549,Service,large-vehicle,High

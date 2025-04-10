@@ -1,0 +1,9 @@
+2048,1280
+2,1959,303,1995,329,Sports,small-vehicle,High
+4,971,407,1006,443,Sports,small-vehicle,High
+8,560,215,592,246,Sports,small-vehicle,High
+15,1778,1166,1829,1212,Sports,small-vehicle,High
+19,591,198,624,230,Sports,small-vehicle,High
+25,569,1143,608,1176,Sports,small-vehicle,High
+27,612,101,642,129,Sports,small-vehicle,High
+34,1162,615,1200,652,Sports,small-vehicle,High

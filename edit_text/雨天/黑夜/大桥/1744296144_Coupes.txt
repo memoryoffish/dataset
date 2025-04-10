@@ -1,0 +1,2 @@
+2048,1280
+7,1770,687,1805,707,Coupes,small-vehicle,High

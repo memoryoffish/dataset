@@ -1,0 +1,2 @@
+2048,1280
+2,712,392,728,406,Motorcycles,small-vehicle,High

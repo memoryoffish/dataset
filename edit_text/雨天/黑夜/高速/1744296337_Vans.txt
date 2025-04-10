@@ -1,0 +1,2 @@
+2048,1280
+21,204,57,247,89,Vans,small-vehicle,High

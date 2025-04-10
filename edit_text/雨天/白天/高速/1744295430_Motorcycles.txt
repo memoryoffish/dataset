@@ -1,0 +1,5 @@
+2048,1280
+42,763,613,770,622,Motorcycles,small-vehicle,High
+53,1745,702,1756,706,Motorcycles,small-vehicle,High
+73,1697,765,1708,770,Motorcycles,small-vehicle,High
+76,1227,1022,1237,1030,Motorcycles,small-vehicle,High

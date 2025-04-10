@@ -1,0 +1,2 @@
+2048,1280
+28,1251,621,1285,643,Service,small-vehicle,High

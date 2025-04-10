@@ -1,0 +1,2 @@
+2048,1280
+18,1993,37,2016,77,SportsClassics,small-vehicle,High

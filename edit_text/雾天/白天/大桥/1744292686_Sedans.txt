@@ -1,0 +1,16 @@
+2048,1280
+2,1516,560,1545,572,Sedans,small-vehicle,High
+4,946,657,973,669,Sedans,small-vehicle,High
+8,668,639,695,651,Sedans,small-vehicle,High
+11,1255,647,1282,659,Sedans,small-vehicle,High
+12,1797,597,1827,609,Sedans,small-vehicle,High
+20,1315,644,1342,656,Sedans,small-vehicle,High
+25,562,597,589,610,Sedans,small-vehicle,High
+30,1686,975,1699,1001,Sedans,small-vehicle,High
+31,1327,540,1354,553,Sedans,small-vehicle,High
+34,1305,564,1332,576,Sedans,small-vehicle,High
+39,907,579,933,591,Sedans,small-vehicle,High
+40,667,564,694,576,Sedans,small-vehicle,High
+41,475,677,503,689,Sedans,small-vehicle,High
+43,98,615,126,627,Sedans,small-vehicle,High
+47,1715,722,1730,748,Sedans,small-vehicle,High

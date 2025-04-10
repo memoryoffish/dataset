@@ -1,0 +1,8 @@
+2048,1280
+2,1642,293,1666,323,Utility,large-vehicle,High
+15,1707,334,1737,382,Utility,small-vehicle,High
+22,1074,1002,1093,1058,Utility,small-vehicle,High
+31,1632,525,1675,571,Utility,small-vehicle,High
+36,1834,160,1868,207,Utility,small-vehicle,High
+44,1022,372,1038,423,Utility,small-vehicle,High
+46,996,159,1012,190,Utility,large-vehicle,High

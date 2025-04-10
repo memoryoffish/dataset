@@ -1,0 +1,2 @@
+2048,1280
+7,930,367,967,467,Commercial,large-vehicle,High

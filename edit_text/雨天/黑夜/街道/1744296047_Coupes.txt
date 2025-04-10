@@ -1,0 +1,7 @@
+2048,1280
+1,1203,787,1240,829,Coupes,small-vehicle,High
+13,5,924,42,964,Coupes,small-vehicle,High
+18,245,201,282,219,Coupes,small-vehicle,High
+21,305,207,342,227,Coupes,small-vehicle,High
+28,29,274,58,310,Coupes,small-vehicle,High
+29,751,284,787,317,Coupes,small-vehicle,High

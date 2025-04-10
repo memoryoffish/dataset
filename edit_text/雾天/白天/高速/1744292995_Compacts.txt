@@ -1,0 +1,3 @@
+2048,1280
+19,95,501,123,519,Compacts,small-vehicle,High
+38,1918,224,1946,244,Compacts,small-vehicle,High

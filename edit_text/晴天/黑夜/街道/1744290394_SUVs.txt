@@ -1,0 +1,8 @@
+2048,1280
+0,705,123,738,164,SUVs,small-vehicle,High
+3,1249,780,1278,824,SUVs,small-vehicle,High
+12,899,318,935,361,SUVs,small-vehicle,High
+15,722,571,765,602,SUVs,small-vehicle,High
+24,1212,362,1252,390,SUVs,small-vehicle,High
+26,832,542,873,571,SUVs,small-vehicle,High
+31,476,547,519,574,SUVs,small-vehicle,High

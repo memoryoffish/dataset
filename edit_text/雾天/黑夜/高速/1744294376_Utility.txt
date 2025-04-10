@@ -1,0 +1,2 @@
+2048,1280
+28,989,885,1012,942,Utility,small-vehicle,High

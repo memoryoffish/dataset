@@ -1,0 +1,2 @@
+2048,1280
+15,1825,233,1866,257,Muscle,small-vehicle,High

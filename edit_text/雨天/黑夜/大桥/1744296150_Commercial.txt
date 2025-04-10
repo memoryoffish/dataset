@@ -1,0 +1,7 @@
+2048,1280
+2,1971,605,2036,638,Commercial,large-vehicle,High
+3,1153,17,1201,40,Commercial,large-vehicle,High
+5,1627,721,1688,753,Commercial,large-vehicle,High
+6,249,312,304,349,Commercial,large-vehicle,High
+10,202,1012,256,1035,Commercial,large-vehicle,High
+12,735,938,793,973,Commercial,large-vehicle,High

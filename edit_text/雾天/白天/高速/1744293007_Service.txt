@@ -1,0 +1,2 @@
+2048,1280
+44,295,624,382,648,Service,large-vehicle,High

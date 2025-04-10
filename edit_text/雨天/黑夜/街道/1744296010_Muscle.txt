@@ -1,0 +1,5 @@
+2048,1280
+0,1226,767,1263,809,Muscle,small-vehicle,High
+3,1264,810,1303,851,Muscle,small-vehicle,High
+6,721,899,762,936,Muscle,small-vehicle,High
+17,538,1125,581,1152,Muscle,small-vehicle,High

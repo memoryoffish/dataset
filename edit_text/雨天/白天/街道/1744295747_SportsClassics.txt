@@ -1,0 +1,2 @@
+2048,1280
+0,434,936,497,970,SportsClassics,small-vehicle,High

@@ -1,0 +1,2 @@
+2048,1280
+6,844,473,874,490,Industrial,large-vehicle,High

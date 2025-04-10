@@ -1,0 +1,6 @@
+2048,1280
+28,344,497,389,526,Industrial,large-vehicle,High
+40,1787,455,1814,501,Industrial,large-vehicle,High
+43,274,473,312,498,Industrial,large-vehicle,High
+54,1248,785,1292,806,Industrial,large-vehicle,High
+78,773,602,815,623,Industrial,large-vehicle,High

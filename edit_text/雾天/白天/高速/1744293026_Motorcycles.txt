@@ -1,0 +1,2 @@
+2048,1280
+24,1186,1057,1192,1070,Motorcycles,small-vehicle,High

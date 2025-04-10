@@ -1,0 +1,2 @@
+2048,1280
+32,651,440,662,457,Motorcycles,small-vehicle,High

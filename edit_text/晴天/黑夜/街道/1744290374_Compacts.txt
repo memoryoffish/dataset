@@ -1,0 +1,12 @@
+2048,1280
+2,1513,473,1545,494,Compacts,small-vehicle,High
+6,997,340,1021,371,Compacts,small-vehicle,High
+10,1481,357,1509,377,Compacts,small-vehicle,High
+12,888,201,913,231,Compacts,small-vehicle,High
+14,754,270,777,298,Compacts,small-vehicle,High
+17,1880,221,1913,241,Compacts,small-vehicle,High
+18,957,1192,977,1227,Compacts,small-vehicle,High
+19,1100,448,1129,469,Compacts,small-vehicle,High
+20,440,748,473,770,Compacts,small-vehicle,High
+23,1287,427,1314,450,Compacts,small-vehicle,High
+40,630,567,661,588,Compacts,small-vehicle,High

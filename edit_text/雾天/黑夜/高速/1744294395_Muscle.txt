@@ -1,0 +1,17 @@
+2048,1280
+2,1499,687,1521,698,Muscle,small-vehicle,High
+11,605,563,627,574,Muscle,small-vehicle,High
+16,204,488,229,503,Muscle,small-vehicle,High
+25,597,587,620,599,Muscle,small-vehicle,High
+28,1655,756,1679,766,Muscle,small-vehicle,High
+30,1794,645,1807,670,Muscle,small-vehicle,High
+31,734,602,757,614,Muscle,small-vehicle,High
+41,1221,854,1232,877,Muscle,small-vehicle,High
+42,1296,102,1305,122,Muscle,small-vehicle,High
+44,835,651,857,663,Muscle,small-vehicle,High
+45,1211,244,1229,267,Muscle,small-vehicle,High
+47,1890,1241,1905,1268,Muscle,small-vehicle,High
+48,1370,730,1393,741,Muscle,small-vehicle,High
+70,346,501,370,517,Muscle,small-vehicle,High
+73,1581,889,1605,909,Muscle,small-vehicle,High
+74,1302,1088,1325,1113,Muscle,small-vehicle,High

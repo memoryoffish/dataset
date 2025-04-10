@@ -1,0 +1,12 @@
+2048,1280
+1,892,541,915,555,Vans,small-vehicle,High
+4,1700,692,1724,704,Vans,small-vehicle,High
+20,1180,552,1200,576,Vans,small-vehicle,High
+30,549,448,572,460,Vans,small-vehicle,High
+31,1085,999,1096,1023,Vans,small-vehicle,High
+37,1068,717,1077,739,Vans,small-vehicle,High
+39,692,428,704,451,Vans,small-vehicle,High
+43,1302,281,1322,306,Vans,small-vehicle,High
+54,252,246,278,267,Vans,small-vehicle,High
+59,725,712,746,735,Vans,small-vehicle,High
+67,929,976,951,1001,Vans,small-vehicle,High

@@ -1,0 +1,2 @@
+2048,1280
+0,424,836,453,879,Industrial,small-vehicle,High

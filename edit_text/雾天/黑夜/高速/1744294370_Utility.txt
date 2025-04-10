@@ -1,0 +1,3 @@
+2048,1280
+28,943,690,975,745,Utility,small-vehicle,High
+38,65,358,104,390,Utility,large-vehicle,High

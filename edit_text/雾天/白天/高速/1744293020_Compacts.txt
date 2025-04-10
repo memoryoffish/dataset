@@ -1,0 +1,2 @@
+2048,1280
+43,171,44,198,63,Compacts,small-vehicle,High

@@ -1,0 +1,4 @@
+2048,1280
+4,1186,1139,1199,1169,SportsClassics,small-vehicle,High
+27,1253,6,1267,36,SportsClassics,small-vehicle,High
+53,763,236,791,264,SportsClassics,small-vehicle,High

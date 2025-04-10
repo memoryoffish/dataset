@@ -1,0 +1,2 @@
+2048,1280
+21,110,288,141,325,SUVs,small-vehicle,High

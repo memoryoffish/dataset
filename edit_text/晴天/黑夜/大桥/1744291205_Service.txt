@@ -1,0 +1,7 @@
+2048,1280
+6,1208,559,1226,568,Service,small-vehicle,High
+18,1102,784,1120,837,Service,large-vehicle,High
+23,1387,26,1437,45,Service,large-vehicle,High
+24,255,465,276,510,Service,large-vehicle,High
+36,1603,30,1645,48,Service,large-vehicle,High
+47,1901,913,1943,960,Service,large-vehicle,High

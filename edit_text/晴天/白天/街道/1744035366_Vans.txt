@@ -1,0 +1,2 @@
+2048,1280
+14,206,187,262,233,Vans,large-vehicle,High

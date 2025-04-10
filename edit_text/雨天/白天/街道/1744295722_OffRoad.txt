@@ -1,0 +1,6 @@
+2048,1280
+2,1928,240,2002,304,OffRoad,small-vehicle,High
+11,579,922,646,958,OffRoad,small-vehicle,High
+14,1497,626,1568,668,OffRoad,small-vehicle,High
+16,658,918,723,947,OffRoad,small-vehicle,High
+19,1265,752,1328,781,OffRoad,small-vehicle,High

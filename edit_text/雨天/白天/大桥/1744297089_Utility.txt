@@ -1,0 +1,2 @@
+2048,1280
+24,1973,566,2017,582,Utility,large-vehicle,High
